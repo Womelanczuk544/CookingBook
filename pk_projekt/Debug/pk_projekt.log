@@ -1,0 +1,43 @@
+﻿  pk_projekt.cpp
+  pk_projekt_main.cpp
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(112,11): warning C4552: „>>”: Wynik wyrażenia nie jest używany
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(204,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(209,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(214,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(325,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(394,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(426,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(431,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(437,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(443,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(420,13): warning C4101: "pom": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(460,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(469,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(513,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(542,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(562,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(566,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(577,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(651,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(656,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(699,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(724,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(729,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(733,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(810,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(814,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(816,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(825,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(827,35): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(870,39): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(873,43): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(875,47): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(884,47): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(905,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(928,47): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(930,51): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(939,51): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(806,95): warning C4101: "pomp": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\pk_projekt\pk_projekt_main.cpp(1021,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  pk_projekt.vcxproj -> C:\Users\wojte\OneDrive - Politechnika Śląska\pk\projekt na zaliczenie\projekt_przepisy_kucharskie\Debug\pk_projekt.exe

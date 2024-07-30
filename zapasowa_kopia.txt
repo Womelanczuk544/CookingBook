@@ -1,0 +1,161 @@
+class baza_daanych
+{
+    vector<rodzaj_produktu> wszystkie_rodzaje_produktu;
+public:
+    baza_daanych(vector<rodzaj_produktu> p_wszystkie_rodzaje_produktu) :wszystkie_rodzaje_produktu(p_wszystkie_rodzaje_produktu)
+    {
+
+    }
+};
+
+class produkt
+{
+    string nazwa,rodzaj;
+    int kalorie;
+public:
+    produkt(string p_nazwa, string p_rodzaj, int p_kalorie):nazwa(p_nazwa), rodzaj(p_rodzaj), kalorie(p_kalorie)
+    {
+    }
+};
+
+class dieta 
+{
+    string nazwa, opis;
+    vector<danie> pasujace_dania;
+public:
+    //wyświetla wszystkie diety i wszystkie dania z tych diet
+};
+
+class rodzaj_dania
+{
+    string nazwa;
+    vector<danie> typ_dania;
+public:
+    //wyświetla wszystkie rodzaje dań oraz dania do nich przyporządkowane
+};
+
+class rodzaj_produktu
+{
+    string nazwa;
+    int nr_seri;
+    vector<produkt> typ_produktu;
+public:
+    rodzaj_produktu(string p_nazwa, int nr_seri, vector<produkt> p_typ_produktu)
+};
+
+class danie
+{
+    string nazwa,dieta,rodzaj;
+public:
+    //wyświetla wszystkie dania 
+    //pozwala wyszukać konkretne danie 
+};
+
+class przepis: public danie
+{
+    vector<produkt> skladniki;
+    string proces_przygotowania;
+    double czas_przygotowania;
+public:
+    //wyświetla przepis tzn wszystkie  jego parametry 
+    //liczy i wyswietla kalorycznosc potrawy
+    //sprawdza które przepisy można stworzyć z dostępnych produktów lub do których brakuje kilku składników 
+    //tworzy baze danych produktów 
+    //dodawanie przepisów 
+    //zapisywanie przepisow i produktów do pliku 
+    //ladowanie bazy danych z pliku
+};
+class menu
+{
+    string pole_1, pole_2, pole_3, pole_4, pole_5, pole_6;
+public:
+    menu()
+    {
+        pole_1 = "1.dodaj przepis";
+        pole_2 = "2.wgraj obiady z pliku ";
+        pole_3 = "3.wgraj kolacje z pliku ";
+        pole_4 = "4.wgraj slodkie przepisy z pliku ";
+        pole_5 = "5.wgraj wytrawne przepisy z pliku ";
+        pole_6 = "0.koniec ";
+    }
+    void show_me()
+    {
+        cout << pole_1 << endl;
+        cout << pole_2 << endl;
+        cout << pole_3 << endl;
+        cout << pole_4 << endl;
+        cout << pole_5 << endl;
+        cout << pole_6 << endl;
+    }
+    void sterownik()
+    {
+        int x, y;
+        do
+        {
+            show_me();
+            cin >> x;
+            if (cin.fail())
+            {
+                cin.clear();
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                x = -1;
+            }
+            switch (x)
+            {
+            case 0:
+                cout << "zycze smacznego :) zamykam program \n";
+                break;
+            case 1:
+                cout << "wybierz jakiego rodzaju to przepis\n";
+                do{
+                    cout << "1.sniadanie\n2.obiad\n3.podwieczorek\n4.kolacja\n0.wraca do menu glownego\n";
+                    cin >> y;
+                    if (cin.fail())
+                    {
+                        cin.clear();
+                        cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                        x = -1;
+                    }
+                    switch (y)
+                    {
+                    case 0:
+                        cout << "powrot do menu glownego\n";
+                        break;
+                    case 1:
+                        cout << "dodaj sniadanie\n";
+                        break;
+                    case 2:
+                        cout << "dodaj obiad\n";
+                        break;
+                    case 3:
+                        cout << "dodaj podwieczorek\n";
+                        break;
+                    case 4:
+                        cout << "dodaj kolacje\n";
+                        break;
+                    default:
+                        cout << "podano znak ktory nie znajduje sie na liscie \n";
+                    }
+                } while ( y != 0);
+                break;
+            case 2:
+                cout << "narazie nic nie robie\n";
+                break;
+            case 3:
+                cout << "narazie nic nie robie\n";
+                break;
+            case 4:
+                cout << "narazie nic nie robie\n";
+                break;
+            case 5:
+                cout << "narazie nic nie robie\n";
+                break;
+            case 6:
+                cout << "narazie nic nie robie\n";
+                break;
+            default:
+                cout << "podano znak ktory nie znajduje sie na liscie \n";
+            }
+        } while (x != 0);
+    }
+};

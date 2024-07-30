@@ -1,0 +1,115 @@
+
+tosty z szynka i serem
+chleb_tostowy 2 sztuk
+ser 10 g
+szynka 10 g
+^
+oregano bardzo ziolowe
+^
+wez chlebek wloz do niego szynke i ser i zapiecz w tosterze 
+^
+brak
+200 cal
+
+tosty z serem i szynka
+ser 10 g
+szynka 10 g
+chleb_tostowy 2 sztuk
+^
+oregano bardzo zilowe
+^
+wez chleb i poloz skladniki 
+^
+brak
+300 cal
+
+tosty z lososiem
+chleb_tostowy 2 sztuk
+losos 20 g
+ser 10 g
+^
+^
+wez dwie kromki poloz na nie lososia i ser i zapiecz 
+^
+brak
+340 cal
+
+siema
+siema 1 sztuk
+^
+lol lol xd
+^
+bla bla bla bla 
+^
+brak
+124 cal
+
+bla
+lol 1 sztuk
+^
+bla xd xd
+^
+hbnjsn;kN;N; 
+^
+brak
+213 cal
+
+siema
+maka 500 g
+^
+^
+
+^
+brak
+23 cal
+
+bla 
+siema 1 sztuk
+^
+siema bardzo mocna
+^
+kjvbjkbuib 
+^
+brak
+1246 cal
+
+bla 
+siema 1 g
+^
+bla bla bla
+^
+bla bla bla 
+^
+brak
+123 cal
+
+bla
+bla 100 g
+siema 200 ml
+^
+sol brak brak
+^
+bla bla bla bla 
+^
+brak
+120 cal
+
+bla
+bla 1 g
+^
+bla brak bla
+^
+bla bla bla 
+^
+brak
+123 cal
+
+bla
+bla 1 g
+^
+bla bla bla
+^
+bla bla bla 
+^
+brak
+123 cal

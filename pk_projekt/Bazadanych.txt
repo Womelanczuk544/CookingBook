@@ -1,0 +1,115 @@
+kebab
+baraninka 200 g
+warzywka 200 g
+bulka 1 sztuk
+^
+curry bardzo ostry
+sol zwyczajnie slona
+^
+posiekaj baraninke upiecz w piekarniku wpakuj do tortilki dodaj warzywka dosyp przyprawki zalej sosem wedle uznania 
+^
+korwin
+550 cal
+spagetti bolones
+makaron_spagetti 1 sztuk
+pomidory 4 sztuk
+cebula 1 sztuk
+czosnek 1 sztuk
+mieso 500 g
+^
+sol zwyczajnie slona
+papryczka_chili bardzo ostra
+^
+ugotuj makaron zmiksuj ze soba pomidory czosnek i cebule nastepnie dodaj sol i czili naloz makaron na talerz nastepnie polej sosem i gotowe 
+^
+makaronowa
+500 cal
+sernik karmelowy
+likier 20 ml
+smietana_30% 500 ml
+cistka_zbozowe_opakowanie 1 sztuk
+czekolada_karmelowa_tabliczka 4 sztuk
+twarog 500 g
+maka 100 g
+jajka 2 sztuk
+maslo 1 sztuk
+^
+proszek_do_pieczenia brak brak
+cukier_wanilinowy mocno waniliowy
+^
+maslo rozpusc i wymieszaj z ciasteczkami. zapiec w 180 stopniach ser wymieszaj ze smietana maka jajkami i przyprawami. zapiec w kompieli wodnej na powstale cisto wylac mase z czekolady i smietany zostawic w lodowce na noc. 
+^
+brak
+4000 cal
+pizza margeritta
+drozdze 25 g
+woda 150 ml
+maka 250 g
+ser 200 g
+przecier_pomidorowy 1 sztuk
+^
+oregano mocno ziolowe
+^
+zmieszaj skladniki na cisto to jest maka, woda drozdze nastepnie odstaw do wyrosniecia. po wyrosnieciu uformuj z ciasta okragly placek i posmaruj go przecierem oraz posyp oregano i serem 
+^
+brak
+1200 cal
+makaron pesto z kurczakiem
+makaron 200 g
+piers_z_kurczaka 1 sztuk
+sloik_suszonych_pomidorow 1 sztuk
+^
+pesto_zielone mocno zilowe
+^
+Makaron ugotowac. Kurczaka pokroic w kostke i usmazyc na oliwie z pomidorow. Pomidory pokroic w kostke i dorzucic na patelnie. Wszystko wrzucic do odcedzonego makaronu, dodac pesto i wymieszac. 
+^
+makaronowa
+700 cal
+kebab z frytakmi
+baraninka 200 g
+warzywka 200 g
+bulka 1 sztuk
+frytki_mrozone_paczka 1 sztuk
+^
+curry bardzo ostry
+sol zwyczajnie slona
+^
+Wlej do garnka olej usmaz na nim frytki.Posiekaj baraninke upiecz w piekarniku wpakuj do tortilki razem z frytkami dodaj warzywka dosyp przyprawki zalej sosem i dosyp przyprawy wedle uznania 
+^
+korwin
+960 cal
+spagetti carbonara
+jajka 2 sztuk
+boczek 100 g
+makaron 150 g
+czosnek 2 sztuk
+ser 30 g
+^
+sol zwyczajnie domyslny
+pieprz_czarny intensywny domyslny
+^
+Makaron ugotowac al dente. Jajka sparzyc wrzatkiem, wbic na talerz i roztrzepac widelcem. Na patelni podsmazyc pokrojony w kostke boczek az sie zarumieni, dodac starty czosnek oraz posiekana natke pietruszki i smazyc jeszcze kilkanascie sekund. Trzymajac patelnie na malym ogniu dodac makaron i wymieszac. Odstawic z ognia dodac polowe sera i doprawic pieprzem. Makaron polac jajkami i wymieszac. Jajka nie mogą calkowicie sie sciac, maja utworzyc kremowy sos i tylko troche zgestniec od goraceg makaronu. Wylozyc na talerze i posypac reszta sera. 
+^
+makaronowa
+1446 cal
+tosty z serem i szynka
+ser 10 g
+szynka 10 g
+chleb_tostowy 2 sztuk
+^
+oregano bardzo zilowe
+^
+wez chleb i poloz skladniki 
+^
+brak
+300 cal
+tosty z lososiem
+chleb_tostowy 2 sztuk
+losos 20 g
+ser 10 g
+^
+^
+wez dwie kromki poloz na nie lososia i ser i zapiecz 
+^
+brak
+340 cal
